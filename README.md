@@ -17,8 +17,6 @@ Para ejecutar mi aplicación de pyhton he usado el siguiente comando.
 firejail python3 calculadoraBasica.py
 ```
 
-![](imagenes/img0.png)
-
 Una vez instalado al ejecutarlo muestra un menú organizado por tipo de aplicaciones que podemos ejecutar dentro del sandbox.
 
 Seleccionaremos la aplicación que queremos ejecutar de forma aislada. (En mi caso la terminal)
